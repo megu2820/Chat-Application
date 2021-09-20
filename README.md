@@ -1,3 +1,16 @@
+A Chat Application using React and Chatengine.io
+Deployment Link: https://chat-application-megu-community.netlify.app/. See it in Action!!
+You can login as the following people :
+Username: Test, Password: 12345
+Username: Megha Sharma, Password: 12345
+Username: Mona, Password: 12345
+Username: John, Password: 12345
+You can create your own chat rooms, add people to them, send messages, images.It is completely mobile responsive.I haven,t added the functionality of logout yet so after logging in as one person in order to login as another person and see how it looks clear your localstorage that will clear the username and password and you will see the login screen
+Here is the desktop view
+![Screenshot (1)](https://user-images.githubusercontent.com/66476812/134010208-fb8b06c2-9591-489e-a2fb-eb49c46e741c.png)
+And Here is the mobile view
+![Screenshot (2)](https://user-images.githubusercontent.com/66476812/134010283-71034710-116d-459a-9472-85cfbf4370a2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
