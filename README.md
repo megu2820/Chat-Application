@@ -12,7 +12,7 @@ Username: Mona, Password: 12345
 
 Username: John, Password: 12345
 
-You can create your own chat rooms, add people to them, send messages, images.It is completely mobile responsive.I haven,t added the functionality of logout yet so after logging in as one person in order to login as another person and see how it looks clear your localstorage that will clear the username and password and you will see the login screen
+You can create your own chat rooms, add people to them, send messages, images.It is completely mobile responsive.I haven't added the functionality of logout yet so after logging in as one person in order to login as another person and see how it looks clear your localstorage that will clear the username and password and you will see the login screen
 
 Here is the desktop view
 
